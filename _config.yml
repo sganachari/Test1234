@@ -1,6 +1,7 @@
 theme: jekyll-theme-hacker
 title: Sganachari
 description: Write-ups on the things I have worked
+show_github_page:False
 google_analytics:G-E06KRZ9HZ7
 github:
   zip_url: http://example.com/download.zip
