@@ -1,4 +1,5 @@
-theme: jekyll-theme-hacker
+#theme: jekyll-theme-hacker
+theme: jekyll-sleek
 title: Sganachari
 description: Write-ups on the things I have worked
 google_analytics: G-E06KRZ9HZ7
